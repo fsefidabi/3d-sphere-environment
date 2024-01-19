@@ -1,6 +1,6 @@
 # 3d Sphere Environment
 
-![screenshot](https://3d-sphere-environment.vercel.app/screenshot.png)
+![screenshot](https://github.com/fsefidabi/3d-sphere-environment/blob/master/static/screenshot.png)
 
 ## Demo
 https://3d-sphere-environment.vercel.app/
