@@ -1,4 +1,9 @@
-# Three.js Journey
+# 3d Sphere Environment
+
+![screenshot](https://3d-sphere-environment.vercel.app/screenshot.png)
+
+## Demo
+https://3d-sphere-environment.vercel.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
